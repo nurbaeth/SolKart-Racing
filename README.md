@@ -12,7 +12,7 @@
 - 🏁 Kart selection
 - 🎲 On-chain race simulation with pseudo-random outcomes
 - 🏆 Leaderboard tracking wins
-- 🔐 Fully transparent, decentralized gameplay
+- 🔐 Fully transparent, decentralized gameplay 
 
 ---
 
